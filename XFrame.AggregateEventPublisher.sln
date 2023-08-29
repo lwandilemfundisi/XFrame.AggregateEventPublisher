@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFrame.AggregateEventPublisher", "XFrame.AggregateEventPublisher\XFrame.AggregateEventPublisher.csproj", "{3E00DF9A-8833-4634-A3AF-50A3BBAB9805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E00DF9A-8833-4634-A3AF-50A3BBAB9805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E00DF9A-8833-4634-A3AF-50A3BBAB9805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E00DF9A-8833-4634-A3AF-50A3BBAB9805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E00DF9A-8833-4634-A3AF-50A3BBAB9805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2AD3F6C-9A7C-4353-BD4D-851F811230BC}
+	EndGlobalSection
+EndGlobal
